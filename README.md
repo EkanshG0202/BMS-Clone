@@ -4,17 +4,6 @@ A simplified clone of BookMyShow built as a Database Management Systems course p
 
 Built with **Python + Streamlit** for the UI and **SQLite3** for the database. Business rules — like preventing double bookings or overselling seats — are enforced directly in the database using constraints and triggers, not just application-level checks.
 
-> Course: CSF212 — Database Management Systems (Project 1) · Group 36
-
-## Team
-
-- Ekansh Gupta — 2024A7PS0043H
-- Vaishnav Gadamsetty — 2024A7PS0026H
-- Zakir Inaganti — 2024A7IS2428H
-- Putha Mokshith Reddy — 2024A7IS2430H
-- T Rithik Reddy — 2024A7PS0038H
-- Mutyala Satya Ajay Chakravarthy — 2024A7PS0078H
-
 ## Features
 
 - 🔐 User registration and login with role-based access (Customer / Admin)
